@@ -15,17 +15,132 @@ methodologies**.
 
 ## 🛠 Top Skills
 
-- **Cisco Unified Communications Manager (CUCM)**
-- **Network Infrastructure**
-- **Infrastructure as a Service (IaaS)**
-
-## 📜 Certifications
-
 - 🏅 **Certified ScrumMaster**
 - 📊 **Agile Programme Manager**
 - 🎓 **TOGAF 9 Certified**
 - ☁️ **AWS Certified Developer - Associate**
 - 🎖 **Prince 2 Practitioner**
+- # 📜 **Licenses & Certifications**
+
+### 🏆 Agile Programme Manager
+**Issuer**: APMG International
+**Issued**: Jan 2016
+
+### 🏆 Agile Project Manager Practitioner
+**Issuer**: APMG International
+**Issued**: Jan 2016
+
+---
+
+### 🧑‍💼 Certified ScrumMaster
+**Issuer**: Scrum Alliance
+**Issued**: Feb 2015
+
+---
+
+### 🏛️ Archimate 2
+**Issuer**: The Open Group
+**Issued**: Oct 2014
+
+
+---
+
+### 🏛️ Enterprise and Solutions Architecture Practitioner
+**Issuer**: BCS, The Chartered Institute for IT
+**Issued**: Oct 2013
+
+
+---
+
+### 🏛️ TOGAF 9 Certified
+**Issuer**: The Open Group
+**Issued**: Aug 2013
+**Credential ID**: 76125
+
+
+---
+
+### 🎓 Prince 2 Practitioner
+**Issuer**: APMG International
+**Issued**: Jun 2008
+**Credential ID**: P2R/292064
+
+
+---
+
+### 🎓 Managing Successful Programmes
+**Issuer**: APMG International
+**Issued**: Aug 2007
+**Credential ID**: MSPR/15818
+
+
+---
+
+### 🧾 ITIL Foundation v2
+**Issuer**: APMG International
+**Issued**: Jun 2006
+
+
+---
+
+### ☁️ AWS Certified SysOps Administrator - Associate
+**Issuer**: Amazon Web Services (AWS)
+**Credential ID**: AWS-ASOA-3917
+
+
+---
+
+### ☁️ AWS Business Professional
+**Issuer**: Amazon Web Services (AWS)
+
+---
+
+### ☁️ AWS Certified DevOps Engineer - Professional
+**Issuer**: Amazon Web Services (AWS)
+**Credential ID**: AWS-PDOE-1183
+
+
+---
+
+### ☁️ AWS Certified Developer - Associate
+**Issuer**: Amazon Web Services (AWS)
+**Credential ID**: AWS-ADEV-3765
+
+
+---
+
+### ☁️ AWS Certified Solutions Architect - Associate
+**Issuer**: Amazon Web Services (AWS)
+**Credential ID**: AWS-ASA-17725
+
+
+---
+
+### ☁️ AWS Certified Solutions Architect - Professional
+**Issuer**: Amazon Web Services (AWS)
+**Credential ID**: AWS-PSA-2436
+
+
+---
+
+### ☁️ AWS Technical Professional
+**Issuer**: Amazon Web Services (AWS)
+
+---
+
+### 🧩 Certified SAFe® Program Consultant
+**Issuer**: Scaled Agile, Inc.
+
+---
+
+### 🏋️ Crossfit L2 Coach / Crossfit Mobility Coach
+**Issuer**: CrossFit, LLC
+
+---
+
+### 🧩 SAFe RTE 6
+**Issuer**: Scaled Agile, Inc.
+
 
 ## 📝 Summary
 
