@@ -17,8 +17,10 @@ methodologies**.
 
 - 🏅 **Certified ScrumMaster**
 - 📊 **Agile Programme Manager**
+- 📊 **SAFe SPC**
+- 📊 **SAFe RTE**
 - 🎓 **TOGAF 9 Certified**
-- ☁️ **AWS Certified Developer - Associate**
+- ☁️ **AWS Certified Developer - Professional**
 - 🎖 **Prince 2 Practitioner**
 - # 📜 **Licenses & Certifications**
 
